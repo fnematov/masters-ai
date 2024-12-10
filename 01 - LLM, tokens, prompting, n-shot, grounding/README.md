@@ -20,7 +20,7 @@ The journey of AI dates back decades, but its modern explosion began with **the 
 
 **Fun Fact:** AI training involves layers of interconnected neurons, akin to the human brain's functionality.
 
-![Evolution of AI](image_url_placeholder)
+![Evolution of AI](img.png)
 
 ---
 
@@ -44,7 +44,7 @@ AI and ML aren't confined to laboratories; they touch every aspect of our lives.
 ### **Did You Know?**
 LLMs rely on **Natural Language Processing (NLP)** to interpret and generate human-like text.
 
-![LLMs at Work](image_url_placeholder)
+![LLMs at Work](img_1.png)
 
 ---
 
@@ -67,7 +67,7 @@ As AI proliferates, challenges arise:
 
 **Important Note:** Always be cautious with cloud-based AI tools when dealing with confidential data.
 
-![AI Ethics](image_url_placeholder)
+![AI Ethics](img_2.png)
 
 ---
 
@@ -87,7 +87,7 @@ The future of AI is boundless, with potential breakthroughs in **autonomous syst
 3. **Experiment with Pre-Trained Models:** Try Hugging Face or OpenAI APIs.
 4. **Build Projects:** Create simple classifiers or chatbots to hone your skills.
 
-![Begin Your AI Journey](image_url_placeholder)
+![Begin Your AI Journey](img_3.png)
 
 ---
 
