@@ -38,6 +38,6 @@ while True:
     if result["status"] == "Ready":
         # Download image from url and create a flux-image.jpg file
         image = requests.get(result['result']['sample'])
-        with open("flux-image.jpg", "wb") as file:
+        with open("flux-images/flux-image.jpg", "wb") as file:
             file.write(image.content)
         break
