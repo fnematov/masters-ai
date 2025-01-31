@@ -125,4 +125,14 @@ Expected output:
 
 ---
 
+### Example of the application
+![Chat init](01.png)
+![Agents communication log](02.png)
+![Fetched data from database by function](03.png)
+![Response from agents](04.png)
+![Next question](05.png)
+![Response log](06.png)
+![Final response](07.png)
+
+
 🚀 **Built with Python, Streamlit, AutoGen & OpenAI!**  
