@@ -1,0 +1,274 @@
+make,model,year,mileage,transmission_type,owner_type,fuel_type,additional_info,engine_size,number_of_doors,price,engine_hp,engine_cylinders,driven_wheels,market_category,vehicle_size,vehicle_style,popularity_rate,msrp
+BMW,5 Series,2019,270864,Semi-Automatic,1,Hybrid,"BMW 5 Series 3.0 530D M Sport, 2019, Diesel",2.3,2.0,7682.0,,,,,,,,
+Toyota,Corolla,2007,165315,Manual,4,Electric,Top End Fully Loaded Automatic  Corolla with  Advanced Seq. CNG,3.4,3.0,8293.0,,,,,,,,
+Audi,A3,2015,115707,Semi-Automatic,2,Hybrid,"Audi A3 2.0 35 TDI Attraction, 2015, Diesel",4.3,4.0,11585.0,,,,,,,,
+Audi,A4,2012,21795,Manual,5,Electric,"Audi A4 2014-2016 2.0 TDI S Line, 2012, Diesel",4.9,5.0,14164.0,,,,,,,,
+Mercedes-Benz,C-Class,2015,65000.0 km,AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz C-Class 2.0 220d Progressive, 2015, Diesel",,4.0,,241.0,4.0,all wheel drive,Luxury,Midsize,Sedan,617.0,40400.0
+Mercedes-Benz,C-Class,2016,"41,000 km",AUTOMATIC,second,premium unleaded (required),"Mercedes-Benz C-Class C 200, 2016, Petrol",,4.0,,241.0,4.0,all wheel drive,Luxury,Midsize,Sedan,617.0,43125.0
+Land Rover,Range Rover Evoque,2017,"130,000 km",AUTOMATIC,second,premium unleaded (recommended),Vehicle is in very good condition,,4.0,,240.0,4.0,all wheel drive,"Crossover,Luxury",Compact,4dr SUV,258.0,51000.0
+Toyota,Camry,2015,234926,Manual,5,Electric,"Toyota Camry 2012-2014 Hybrid, 2015, Petrol",4.1,5.0,10001.0,,,,,,,,
+Audi,A4,2021,150713,Semi-Automatic,4,Diesel,"Audi A4 2.0 Technology 40 TFSI, 2021, Petrol",4.7,2.0,12085.0,,,,,,,,
+Toyota,Camry,2016,157466,Manual,1,Diesel,Toyota Camry 2016 white and well maintained with VIP no.,1.2,4.0,6950.0,,,,,,,,
+BMW,X1,2016,93000.0 km,AUTOMATIC,first,premium unleaded (required),"BMW X1 sDrive 20d xLine, 2016, Diesel",,4.0,,228.0,4.0,all wheel drive,"Crossover,Luxury",Compact,4dr SUV,3916.0,34800.0
+BMW,X5,2016,203082,Manual,3,Petrol,"BMW X5 xDrive 30d Expedition, 2016, Diesel",2.6,3.0,7438.0,,,,,,,,
+BMW,5 Series,2018,23722,Semi-Automatic,5,Petrol,"BMW 5 Series 2.0 530i Sport Line, 2018, Petrol",2.8,5.0,11825.0,,,,,,,,
+Mercedes-Benz,M-Class,2015,"75,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz M-Class ML 350 4Matic, 2015, Diesel",,4.0,,329.0,6.0,all wheel drive,"Crossover,Luxury,Performance",Midsize,4dr SUV,617.0,62900.0
+Hyundai,Tucson,2017,190312,Semi-Automatic,2,Diesel,"Hyundai Tucson 2.0 e-VGT 4WD AT GLS, 2017, Diesel",4.3,5.0,9693.0,,,,,,,,
+Hyundai,Santa Fe,2016,"64,000 km",AUTOMATIC,first,regular unleaded,"Hyundai Santa Fe 2WD AT, 2016, Diesel",,4.0,,290.0,6.0,all wheel drive,Crossover,Midsize,4dr SUV,1439.0,32150.0
+Audi,Q7,2014,"45,000 km",AUTOMATIC,second,diesel,"Audi Q7 3.0 35 TDI Quattro Technology, 2014, Diesel",,4.0,,240.0,6.0,all wheel drive,"Crossover,Luxury,Diesel",Large,4dr SUV,3105.0,64900.0
+Audi,Q3,2016,"77,000 km",AUTOMATIC,first,premium unleaded (recommended),"Audi Q3 2015-2017 2.0 35 TDI Quattro Premium Plus, 2016, Diesel",,4.0,,200.0,4.0,front wheel drive,"Crossover,Luxury",Compact,4dr SUV,3105.0,38600.0
+BMW,5 Series,2016,56150,Manual,1,Petrol,"BMW 5 Series 3.0 530D M Sport, 2016, Diesel",1.7,3.0,9477.0,,,,,,,,
+Volkswagen,Tiguan,2018,256752,Manual,2,Diesel,"Volkswagen Tiguan 2.0 TDI Highline, 2018, Diesel",1.2,2.0,5564.0,,,,,,,,
+BMW,3 Series,2016,282955,Manual,4,Diesel,"BMW 3 Series 2.0 320d Luxury Line, 2016, Diesel",2.2,2.0,5440.0,,,,,,,,
+Land Rover,Range Rover,2016,151000.0 km,AUTOMATIC,second,diesel,"Land Rover Range Evoque 2015-2016 HSE, 2016, Diesel",,4.0,,254.0,6.0,four wheel drive,"Diesel,Luxury",Large,4dr SUV,258.0,86450.0
+Audi,A6,2015,"78,561 km",AUTOMATIC,first,diesel,"Audi A6 3.0 TDI Special Edition, 2015, Diesel",,4.0,,240.0,6.0,all wheel drive,"Diesel,Luxury",Midsize,Sedan,3105.0,58700.0
+BMW,5 Series,2014,256630,Automatic,1,Diesel,"BMW 5 Series 2.0 520D Luxury Line, 2014, Diesel",1.0,5.0,5667.0,,,,,,,,
+Audi,Q3,2017,"45,000 km",AUTOMATIC,second,premium unleaded (recommended),"Audi Q3 2015-2017 2.0 35 TDI Quattro Premium Plus, 2017, Diesel",,4.0,,200.0,4.0,front wheel drive,"Crossover,Luxury",Compact,4dr SUV,3105.0,34500.0
+Aston Martin,Vanquish,2016,25700.0 km,AUTOMATIC,first,premium unleaded (required),"Aston Martin Vanquish 6.0 V12, 2016, Petrol",,2.0,,568.0,12.0,rear wheel drive,"Exotic,High-Performance",Midsize,Coupe,259.0,287650.0
+BMW,5 Series,2017,199006,Automatic,3,Diesel,"BMW 5 Series 2.0 520D Luxury Line, 2017, Diesel",2.1,3.0,8819.0,,,,,,,,
+Volkswagen,Passat,2012,31683,Semi-Automatic,4,Diesel,VW Passat Diesel Auto with sunroof,3.5,3.0,10566.0,,,,,,,,
+Mercedes-Benz,E-Class,2017,"68,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz E-Class E 220 d, 2017, Diesel",,2.0,,329.0,6.0,rear wheel drive,"Luxury,Performance",Midsize,Convertible,617.0,62600.0
+Hyundai,Elantra,2016,258070,Manual,3,Petrol,"Hyundai Elantra SX Optional 1.6 Diesel, 2016, Diesel",3.7,3.0,7438.0,,,,,,,,
+Mercedes-Benz,M-Class,2014,"48,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz M-Class ML 250 CDI, 2014, Diesel",,4.0,,518.0,8.0,all wheel drive,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,617.0,97250.0
+Hyundai,Elantra,2014,227371,Manual,5,Electric,Hyundai Elantra 2014 good condition,3.4,4.0,9152.0,,,,,,,,
+BMW,7 Series,2016,"40,000 km",AUTOMATIC,first,premium unleaded (required),"BMW 7 Series 730Ld Sedan, 2016, Diesel",,4.0,,445.0,8.0,rear wheel drive,"Luxury,High-Performance",Large,Sedan,3916.0,94400.0
+Audi,A4,2015,54522,Automatic,5,Diesel,"Audi A4 2008-2014 2.0 TDI Celebration Edition, 2015, Diesel",2.1,3.0,11109.0,,,,,,,,
+Audi,A6,2016,"40,000 km",AUTOMATIC,first,premium unleaded (recommended),"Audi A6 35 TDI S Line Matrix, 2016, Diesel",,4.0,,252.0,4.0,all wheel drive,Luxury,Midsize,Sedan,3105.0,52100.0
+Audi,Q5,2018,207019,Semi-Automatic,3,Electric,Audi Q5 2018 Diesel Well Maintained,1.7,2.0,9059.0,,,,,,,,
+BMW,5 Series,2013,296824,Automatic,3,Hybrid,"BMW 5 Series 2.0 520D Luxury Line, 2013, Diesel",1.3,2.0,5863.0,,,,,,,,
+Toyota,Camry,2014,177766,Manual,2,Petrol,"Toyota Camry 2.5 Hybrid, 2014, Petrol",1.0,3.0,5744.0,,,,,,,,
+Audi,Q5,2014,230787,Semi-Automatic,1,Petrol,"Audi Q5 2012-2017 3.0 TDI quattro Premium Plus, 2014, Diesel",2.4,3.0,6084.0,,,,,,,,
+BMW,5 Series,2010,1666,Automatic,3,Petrol,BMW 5 Series 2010 Petrol,1.1,4.0,9666.0,,,,,,,,
+Hyundai,Elantra,2012,11213,Manual,5,Hybrid,"Hyundai Elantra VTVT SX AT, 2012, Petrol",2.6,5.0,11075.0,,,,,,,,
+BMW,X5,2021,98604,Semi-Automatic,4,Petrol,"BMW X5 xDrive30d Edition X, 2021, Diesel",5.0,2.0,13427.0,,,,,,,,
+Audi,A4,2013,21399,Manual,3,Electric,"Audi A4 2.0 TDI, 2013, Diesel",3.9,5.0,13472.0,,,,,,,,
+Audi,A3,2016,66533,Manual,2,Petrol,"Audi A3 35 TDI S Line, 2016, Diesel",2.2,2.0,9769.0,,,,,,,,
+Mercedes-Benz,GL-Class,2014,"77,600 km",AUTOMATIC,second,diesel,"Mercedes-Benz GL-Class 350 CDI, 2014, Diesel",,4.0,,240.0,6.0,all wheel drive,"Crossover,Luxury,Diesel",Large,4dr SUV,617.0,63000.0
+BMW,X5,2017,2020,Semi-Automatic,2,Hybrid,"BMW X5 XDRIVE 30 D, 2017, Diesel",3.9,3.0,14059.0,,,,,,,,
+Audi,A4,2016,95719,Automatic,1,Hybrid,Audi A4 2016,4.0,2.0,13485.0,,,,,,,,
+Mercedes-Benz,M-Class,2013,"83,000 km",AUTOMATIC,second,diesel,"Mercedes-Benz M-Class ML 250 CDI, 2013, Diesel",,4.0,,240.0,6.0,all wheel drive,"Crossover,Luxury,Diesel",Midsize,4dr SUV,617.0,51270.0
+BMW,X5,2019,238714,Manual,2,Hybrid,"BMW X5 XDRIVE 30 D, 2019, Diesel",4.0,5.0,10025.0,,,,,,,,
+BMW,5 Series,2011,260151,Automatic,1,Petrol,"BMW 5 Series 2.0 520D Luxury Line, 2011, Diesel",3.0,5.0,6696.0,,,,,,,,
+Volvo,XC60,2016,"65,000 km",AUTOMATIC,second,regular unleaded,"Volvo XC60 D5 AWD Automatic, 2016, Diesel",,4.0,,302.0,4.0,front wheel drive,"Crossover,Luxury,Performance",Midsize,4dr SUV,870.0,41350.0
+BMW,Z4,2016,"5,300 km",AUTOMATED_MANUAL,first,premium unleaded (required),"BMW Z4 3.0 ROADSTAR SDRIVE 35I, 2016, Petrol",,2.0,,300.0,6.0,rear wheel drive,"Luxury,High-Performance",Compact,Convertible,3916.0,57500.0
+Honda,Civic,2019,273193,Manual,4,Petrol,"Honda Civic ZX, 2019, Petrol",4.2,2.0,8536.0,,,,,,,,
+Honda,Civic,2011,136182,Semi-Automatic,2,Petrol,"Honda Civic 1.8 V MT, 2011, Petrol",4.6,3.0,9276.0,,,,,,,,
+Mercedes-Benz,E-Class,2016,"73,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz E-Class 2.1 E 250 CDI Edition, 2016, Diesel",,4.0,,329.0,6.0,rear wheel drive,"Luxury,Performance",Midsize,Sedan,617.0,63100.0
+Honda,Accord,2005,228351,Manual,2,Electric,"Honda Accord 2.4 MT, 2005, Petrol",2.8,2.0,5832.0,,,,,,,,
+Volkswagen,Passat,2011,203960,Automatic,3,Petrol,"Volkswagen Passat 2007-2010 Highline DSG, 2011, Diesel",4.7,5.0,9520.0,,,,,,,,
+Mercedes-Benz,S-Class,2016,"59,500 km",AUTOMATIC,first,premium unleaded (required),Mercedes-Benz S400L 2016 Petrol 59500 Km Driven,,2.0,,621.0,12.0,rear wheel drive,"Factory Tuner,Luxury,High-Performance",Large,Coupe,617.0,234050.0
+BMW,3 Series,2013,208293,Automatic,4,Hybrid,"BMW 3 Series 320 D Performance Edition, 2013, Diesel",1.5,2.0,7834.0,,,,,,,,
+Hyundai,Elantra,2018,205909,Semi-Automatic,2,Electric,"Hyundai Elantra SX Optional 1.6 Diesel, 2018, Diesel",3.7,3.0,11081.0,,,,,,,,
+Audi,A4,2011,104757,Manual,5,Petrol,"Audi A4 2.0 35 TDI Premium Plus Sunroof, 2011, Diesel",2.8,3.0,8104.0,,,,,,,,
+Mercedes-Benz,CLS-Class,2017,"72,000 km",AUTOMATIC,second,premium unleaded (required),"Mercedes-Benz CLS-Class 350 CDI, 2017, Diesel",,4.0,,402.0,8.0,rear wheel drive,"Luxury,High-Performance",Midsize,Sedan,617.0,74850.0
+Audi,A4,2019,251842,Semi-Automatic,1,Diesel,"Audi A4 3.0 S4 TFSI quattro Technology Pack, 2019, Petrol",1.0,5.0,5763.0,,,,,,,,
+Audi,A4,2017,172248,Automatic,2,Electric,"Audi A4 2.0 TDI (177bhp) Technology Pack, 2017, Diesel",2.7,3.0,11955.0,,,,,,,,
+Honda,Civic,2007,279031,Manual,3,Petrol,"Honda Civic 1.8 (E) MT, 2007, Petrol",1.4,5.0,2019.0,,,,,,,,
+BMW,5 Series,2015,46948,Manual,3,Diesel,"BMW 5 Series 2.0 520D Luxury Line, 2015, Diesel",2.0,3.0,9661.0,,,,,,,,
+Honda,Accord,2004,274598,Automatic,1,Petrol,Honda Accord 2004 Petrol 80000 Km Driven,2.9,3.0,4208.0,,,,,,,,
+Mercedes-Benz,C-Class,2017,"112,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz C-Class 2.0 220d, 2017, Diesel",,4.0,,241.0,4.0,rear wheel drive,Luxury,Midsize,Sedan,617.0,39850.0
+Audi,Q5,2010,19071,Automatic,1,Diesel,"Audi Q5 3.0 TDI Premium with sunroof, 2010, Diesel",3.8,3.0,12018.0,,,,,,,,
+BMW,3 Series,2014,191744,Manual,1,Petrol,BMW 3 Series 2014 Diesel Good Condition,2.1,5.0,6565.0,,,,,,,,
+Honda,Civic,2006,142293,Manual,3,Petrol,"Honda Civic 1.8 S AT, 2006, Petrol",1.4,4.0,4454.0,,,,,,,,
+Hyundai,Tucson,2021,217374,Automatic,4,Diesel,Hyundai Tucson 2021 Diesel 28000 Km Driven,3.9,2.0,11452.0,,,,,,,,
+Mercedes-Benz,E-Class,2015,"85,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz E-Class E 200 Avantgarde, 2015, Petrol",,2.0,,329.0,6.0,all wheel drive,"Luxury,Performance",Midsize,Coupe,617.0,55850.0
+Volkswagen,Tiguan,2017,201512,Automatic,3,Electric,"Volkswagen Tiguan 2.0 TDI Comfortline, 2017, Diesel",3.3,4.0,11969.0,,,,,,,,
+Audi,A6,2017,"29,500 km",AUTOMATIC,second,premium unleaded (recommended),"Audi A6 2.0 TDI Technology Pack, 2017, Diesel",,4.0,,252.0,4.0,all wheel drive,Luxury,Midsize,Sedan,3105.0,53800.0
+BMW,X3,2017,"104,000 km",AUTOMATIC,second,diesel,"BMW X3, 2017, Diesel",,4.0,,180.0,4.0,all wheel drive,"Crossover,Luxury,Diesel",Midsize,4dr SUV,3916.0,42750.0
+Audi,Q5,2012,47107,Semi-Automatic,5,Hybrid,"Audi Q5 2012-2017 2.0 TDI quattro, 2012, Diesel",3.3,2.0,11057.0,,,,,,,,
+BMW,3 Series,2010,21962,Manual,4,Petrol,bmw 3 series cleanest in the town,4.2,3.0,10860.0,,,,,,,,
+BMW,X3,2016,"92,000 km",AUTOMATIC,second,premium unleaded (required),"BMW X3 2.0 XDRIVE 20D, 2016, Diesel",,4.0,,240.0,4.0,rear wheel drive,"Crossover,Luxury",Midsize,4dr SUV,3916.0,38950.0
+BMW,X1,2017,"39,000 km",AUTOMATIC,second,premium unleaded (required),"BMW X1 xDrive 20d M Sport, 2017, Diesel",,4.0,,228.0,4.0,front wheel drive,"Crossover,Luxury",Compact,4dr SUV,3916.0,33100.0
+Toyota,Corolla,2014,17100,Automatic,5,Petrol,Single hand used nd Bumper to Bumper All original Car (RC extended),4.1,5.0,13558.0,,,,,,,,
+Toyota,Camry,2023,117049,Manual,5,Diesel,"Toyota Camry 2.5 Hybrid, 2023, Petrol",1.5,2.0,10159.0,,,,,,,,
+BMW,3 Series,2012,78159,Semi-Automatic,1,Petrol,"BMW 3 Series 2.0 320D Sport Edition, 2012, Diesel",4.5,3.0,10636.0,,,,,,,,
+Hyundai,Elantra,2019,128619,Manual,5,Electric,"Hyundai Elantra 1.6 SX CRDi, 2019, Diesel",3.3,3.0,12527.0,,,,,,,,
+Hyundai,Elantra,2017,38133,Automatic,2,Electric,"Hyundai Elantra SX AT, 2017, Petrol",2.9,5.0,14837.0,,,,,,,,
+Porsche,Cayenne,2016,"80,400 km",AUTOMATIC,second,premium unleaded (required),"Porsche Cayenne Diesel Platinum Edition, 2016, Diesel",,4.0,,440.0,6.0,all wheel drive,"Crossover,Luxury,High-Performance",Midsize,4dr SUV,1715.0,95500.0
+Land Rover,Range Rover Sport,2015,"64,000 km",AUTOMATIC,second,flex-fuel (premium unleaded required/E85),"Land Rover Range Sport SDV6 HSE, 2015, Diesel",,4.0,,340.0,6.0,four wheel drive,"Flex Fuel,Luxury,Performance",Midsize,4dr SUV,258.0,63350.0
+Honda,Civic,2020,191397,Manual,4,Petrol,"Honda Civic ZX CVT i-vtec, 2020, Petrol",4.6,3.0,10872.0,,,,,,,,
+BMW,X5,2018,80745,Semi-Automatic,1,Petrol,"BMW X5 XDRIVE 30 D, 2018, Diesel",2.6,3.0,10485.0,,,,,,,,
+Audi,A3,2014,182364,Automatic,5,Petrol,"Audi A3 2.0 35 TDI Premium + Sunroof, 2014, Diesel",4.0,5.0,10152.0,,,,,,,,
+Audi,A4,2014,167035,Manual,5,Hybrid,Audi A4 2014 Diesel Good Condition,4.5,4.0,10459.0,,,,,,,,
+BMW,5 Series,2012,163543,Automatic,4,Petrol,Bmw 520d excellent condition,1.7,5.0,7629.0,,,,,,,,
+Volvo,XC60,2015,"62,000 km",AUTOMATIC,second,regular unleaded,"Volvo XC60 Inscription D5, 2015, Diesel",,4.0,,325.0,6.0,all wheel drive,"Crossover,Luxury,Performance",Midsize,4dr SUV,870.0,51050.0
+Audi,Q3,2015,"100,000 km",AUTOMATIC,second,premium unleaded (recommended),"Audi Q3 2.0 35 TDI Quattro Premium Plus, 2015, Diesel",,4.0,,200.0,4.0,front wheel drive,"Crossover,Luxury",Compact,4dr SUV,3105.0,32500.0
+BMW,3 Series,2020,210767,Semi-Automatic,3,Electric,"BMW 3 Series 2005-2011 330i Sport Edition, 2020, Petrol",4.7,3.0,12584.0,,,,,,,,
+Audi,A4,2009,263797,Manual,5,Diesel,"Audi A4 1.8 TFSI, 2009, Petrol",2.4,2.0,3924.0,,,,,,,,
+Volvo,S60,2015,"62,000 km",AUTOMATIC,first,regular unleaded,"Volvo S60, 2015, Diesel",,4.0,,250.0,5.0,all wheel drive,"Luxury,Performance",Midsize,Sedan,870.0,35450.0
+Ford,Fiesta,2011,30785,Automatic,3,Hybrid,Ford Fiesta 2011 Diesel Good Condition,1.4,4.0,10684.0,,,,,,,,
+Hyundai,Sonata,2014,1752,Manual,2,Electric,"Hyundai Sonata 2.4 GDi AT, 2014, Petrol",2.3,4.0,12564.0,,,,,,,,
+Honda,Civic,2008,140691,Automatic,1,Hybrid,Arjent vikane ahe,4.5,3.0,10686.0,,,,,,,,
+BMW,1 Series,2013,"120,000 km",MANUAL,second,premium unleaded (required),"BMW 1 Series 2.0 118D Sport Line, 2013, Diesel",,2.0,,230.0,6.0,rear wheel drive,Luxury,Compact,Convertible,3916.0,37200.0
+Hyundai,Elantra,2015,215906,Automatic,2,Petrol,"Hyundai Elantra 2012-2015 SX, 2015, Petrol",3.7,4.0,9481.0,,,,,,,,
+Chevrolet,Cruze,2016,"65,000 km",AUTOMATIC,second,regular unleaded,"Chevrolet Cruze 2014-2016 LTZ AT, 2016, Diesel",,4.0,,153.0,4.0,front wheel drive,,Midsize,Sedan,1385.0,19120.0
+Audi,Q5,2011,277409,Automatic,5,Petrol,"Audi Q5 3.0 TDI Quattro, 2011, Diesel",4.5,3.0,7851.0,,,,,,,,
+Volvo,S80,2015,75000.0 km,AUTOMATIC,first,regular unleaded,"Volvo S80 Inscription, 2015, Diesel",,4.0,,300.0,6.0,all wheel drive,"Luxury,Performance",Midsize,Sedan,870.0,45100.0
+Ford,Fiesta,2009,22624,Automatic,4,Petrol,Ford Fiesta 2009 Diesel Well Maintained with company history & low km,2.4,4.0,10247.0,,,,,,,,
+Toyota,Camry,2013,262285,Manual,4,Hybrid,"Toyota Camry 2.5L Automatic, 2013, Petrol",2.2,4.0,5954.0,,,,,,,,
+Audi,Q5,2019,299007,Automatic,2,Hybrid,"Audi Q5 2.0 40 TDI Technology, 2019, Diesel",1.5,2.0,7819.0,,,,,,,,
+BMW,X6,2015,"87,000 km",AUTOMATIC,second,premium unleaded (required),"BMW X6 3.0 XDRIVE 40D M Sport, 2015, Diesel",,4.0,,300.0,6.0,all wheel drive,"Crossover,Luxury",Midsize,4dr SUV,3916.0,61900.0
+Hyundai,Santa Fe,2015,"90,000 km",AUTOMATIC,second,regular unleaded,"Hyundai Santa Fe 2WD AT, 2015, Diesel",,4.0,,290.0,6.0,front wheel drive,Crossover,Midsize,4dr SUV,1439.0,30150.0
+BMW,3 Series,2011,281020,Semi-Automatic,5,Electric,"BMW 3 Series [2005-2011] 2.0 320d Corporate Edition, 2011, Diesel",2.9,3.0,6679.0,,,,,,,,
+Audi,A4,2020,186962,Semi-Automatic,5,Diesel,"Audi A4 1.4 30 TFSI Technology Pack, 2020, Petrol",4.3,3.0,10660.0,,,,,,,,
+Land Rover,Discovery Sport,2016,"76,000 km",AUTOMATIC,second,premium unleaded (recommended),"Land Rover Discovery Sport TD4 HSE Luxury, 2016, Diesel",,4.0,,240.0,4.0,all wheel drive,"Crossover,Luxury",Midsize,4dr SUV,258.0,41955.0
+Honda,CR-V,2007,132875,Automatic,4,Hybrid,"Honda CR-V 2007-2012 2.4L 4WD AT, 2007, Petrol",4.8,3.0,10842.0,,,,,,,,
+Volkswagen,Passat,2010,8662,Manual,3,Diesel,"Volkswagen Passat 2007-2010 1.8 TSI MT, 2010, Petrol",3.4,4.0,10326.0,,,,,,,,
+Ford,Fiesta,2008,83722,Semi-Automatic,1,Hybrid,"Ford Fiesta 2008-2011 1.6 ZXi Leather, 2008, Petrol",2.7,5.0,8525.0,,,,,,,,
+Porsche,Cayenne,2017,"49,650 km",AUTOMATIC,second,premium unleaded (required),"Porsche Cayenne S, 2017, Petrol",,4.0,,520.0,8.0,all wheel drive,"Crossover,Luxury,Performance",Midsize,4dr SUV,1715.0,116500.0
+Audi,A4,2018,180019,Manual,5,Diesel,2018 AUDI A4 PETROL TECHNOLOGY,1.6,3.0,7499.0,,,,,,,,
+Volvo,S60,2016,"115,000 km",AUTOMATIC,first,regular unleaded,"Volvo S60 Cross Country, 2016, Diesel",,4.0,,240.0,4.0,front wheel drive,"Luxury,Performance",Midsize,Sedan,870.0,38900.0
+Honda,Accord,2012,192668,Automatic,2,Electric,"Honda Accord 2.4 Elegance Manual, 2012, Petrol",4.4,4.0,11746.0,,,,,,,,
+Honda,Civic,2010,139584,Automatic,1,Electric,"Honda Civic 1.8 V AT, 2010, Petrol",3.4,3.0,11208.0,,,,,,,,
+Toyota,Corolla,2004,88330,Automatic,4,Petrol,"Toyota Corolla Limited AT Petrol, 2004, Petrol",2.6,2.0,7633.0,,,,,,,,
+Chevrolet,Cruze,2015,"57,000 km",MANUAL,first,regular unleaded,"Chevrolet Cruze 2014-2016 LTZ AT, 2015, Diesel",,4.0,,138.0,4.0,front wheel drive,,Midsize,Sedan,1385.0,16170.0
+Honda,Accord,2013,23936,Semi-Automatic,4,Petrol,"Honda Accord 2.4 Automatic, 2013, Petrol",1.7,4.0,9221.0,,,,,,,,
+Toyota,Camry,2022,162696,Semi-Automatic,2,Electric,"Toyota Camry 2.5 Hybrid, 2022, Petrol",4.5,4.0,13946.0,,,,,,,,
+Mercedes-Benz,CLS-Class,2016,"96,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz CLS-Class  250 CDI, 2016, Diesel",,4.0,,329.0,6.0,rear wheel drive,"Luxury,Performance",Midsize,Sedan,617.0,66900.0
+Audi,Q7,2017,"76,000 km",AUTOMATIC,second,premium unleaded (required),"Audi Q7 3.0 45 TDI Quattro Technology, 2017, Diesel",,4.0,,333.0,6.0,all wheel drive,"Crossover,Luxury,Performance",Large,4dr SUV,3105.0,58800.0
+Ford,Fiesta,2007,53088,Manual,2,Electric,Ford Fiesta 2007 Petrol Well Maintained,4.5,3.0,11638.0,,,,,,,,
+Volvo,XC90,2016,"102,000 km",AUTOMATIC,first,premium unleaded (recommended),"Volvo XC90 Inscription Luxury, 2016, Diesel",,4.0,,250.0,4.0,all wheel drive,"Crossover,Luxury",Large,4dr SUV,870.0,53250.0
+Volvo,S90,2017,"60,000 km",AUTOMATIC,first,premium unleaded (recommended),"Volvo S90 D4 Inscription, 2017, Diesel",,4.0,,250.0,4.0,front wheel drive,Luxury,Large,Sedan,870.0,46950.0
+Land Rover,Discovery Sport,2017,"65,000 km",AUTOMATIC,first,premium unleaded (recommended),"Land Rover Discovery Sport, 2017, Diesel",,4.0,,240.0,4.0,all wheel drive,"Crossover,Luxury",Midsize,4dr SUV,258.0,46595.0
+Toyota,Corolla,2008,226997,Semi-Automatic,5,Petrol,"Toyota Corolla H4 1.8G, 2008, Petrol",3.8,3.0,5760.0,,,,,,,,
+Honda,Civic,2009,182780,Manual,2,Petrol,"Honda Civic 1.8 V AT, 2009, Petrol",2.3,2.0,5444.0,,,,,,,,
+Land Rover,Range Rover Evoque,2015,"65,000 km",AUTOMATIC,first,premium unleaded (recommended),"Land Rover Range Evoque Dynamic SD4, 2015, Diesel",,4.0,,240.0,4.0,all wheel drive,"Crossover,Luxury",Compact,4dr SUV,258.0,60000.0
+Honda,CR-V,2012,21520,Automatic,4,Diesel,"Honda CR-V 2.4 Automatic, 2012, CNG & Hybrids",3.2,4.0,11969.0,,,,,,,,
+Hyundai,Elantra,2013,225488,Manual,2,Diesel,"Hyundai Elantra 1.6 SX, 2013, Diesel",3.6,4.0,7090.0,,,,,,,,
+BMW,7 Series,2017,"24,000 km",AUTOMATIC,second,premium unleaded (required),"BMW 7 Series 3.0 730Ld DPE Signature, 2017, Diesel",,4.0,,445.0,8.0,rear wheel drive,"Luxury,High-Performance",Large,Sedan,3916.0,94600.0
+Volkswagen,Jetta,2016,"120,000 km",AUTOMATIC,first,regular unleaded,"Volkswagen Jetta [2013-2017] 2.0 Highline TDI, 2016, Diesel",,4.0,,150.0,4.0,front wheel drive,,Midsize,Sedan,873.0,22325.0
+Honda,Civic,2013,93273,Semi-Automatic,4,Hybrid,"Honda Civic VX, 2013, Petrol",3.5,2.0,10634.0,,,,,,,,
+Honda,Accord,2011,178300,Automatic,2,Electric,"Honda Accord 2.4 Automatic, 2011, CNG & Hybrids",1.1,5.0,8434.0,,,,,,,,
+Honda,CR-V,2015,295428,Automatic,5,Diesel,"Honda CR-V 2.4 4WD AT, 2015, CNG & Hybrids",4.8,3.0,8991.0,,,,,,,,
+Ford,Mustang,2017,"19,000 km",MANUAL,first,premium unleaded (recommended),"Ford Mustang V8, 2017, Petrol",,2.0,,310.0,4.0,rear wheel drive,Performance,Midsize,Coupe,5657.0,25645.0
+Honda,Accord,2010,277467,Automatic,3,Petrol,"Honda Accord 2.4 Inspire Automatic, 2010, CNG & Hybrids",3.4,2.0,6450.0,,,,,,,,
+Mercedes-Benz,GL-Class,2015,"159,000 km",AUTOMATIC,second,premium unleaded (required),"Mercedes-Benz GL-Class 3.0 350 CDI 4Matic, 2015, Diesel",,4.0,,550.0,8.0,all wheel drive,"Crossover,Factory Tuner,Luxury,High-Performance",Large,4dr SUV,617.0,119450.0
+Toyota,Camry,2019,114139,Manual,4,Petrol,"Toyota Camry [2019-ongoing] 2.5 Hybrid, 2019, CNG & Hybrids",4.7,5.0,12217.0,,,,,,,,
+BMW,5 Series,2021,18032,Manual,2,Diesel,"BMW 5 Series [2017-2021] 2.0 520D Luxury Line, 2021, Diesel",3.1,5.0,13139.0,,,,,,,,
+Toyota,Camry,2017,297176,Semi-Automatic,2,Electric,"Toyota Camry 2.5 Hybrid, 2017, Petrol",4.8,4.0,10056.0,,,,,,,,
+Volkswagen,Passat,2013,227806,Manual,5,Hybrid,"Volkswagen Passat 2010-2014 Diesel Highline 2.0 TDI, 2013, Diesel",1.2,3.0,5643.0,,,,,,,,
+Toyota,Camry,2020,11995,Manual,3,Diesel,"Toyota Camry [2019-ongoing] 2.5 Hybrid, 2020, CNG & Hybrids",2.7,3.0,12560.0,,,,,,,,
+Volvo,S60,2017,"85,000 km",AUTOMATIC,second,regular unleaded,"Volvo S60 Cross Country, 2017, Diesel",,4.0,,240.0,4.0,front wheel drive,Luxury,Midsize,Sedan,870.0,33950.0
+Porsche,Cayman,2014,"7,000 km",MANUAL,first,premium unleaded (required),"Porsche Cayman S, 2014, Petrol",,2.0,,275.0,6.0,rear wheel drive,"Luxury,High-Performance",Compact,Coupe,1715.0,52600.0
+Mercedes-Benz,S-Class,2015,72000.0 km,AUTOMATIC,second,premium unleaded (required),"Mercedes-Benz S-Class S 500 L, 2015, Petrol",,4.0,,449.0,8.0,rear wheel drive,"Luxury,High-Performance",Large,Sedan,617.0,94400.0
+Toyota,Corolla,2006,174551,Semi-Automatic,5,Diesel,"Toyota Corolla LE XE, 2006, CNG & Hybrids",2.8,4.0,5208.0,,,,,,,,
+Mercedes-Benz,CLS-Class,2015,"82,000 km",AUTOMATIC,second,premium unleaded (required),"Mercedes-Benz CLS-Class 250 CDI, 2015, Diesel",,4.0,,402.0,8.0,rear wheel drive,"Luxury,High-Performance",Midsize,Sedan,617.0,73200.0
+BMW,X5 M,2016,"78,000 km",AUTOMATIC,second,premium unleaded (required),"BMW X5 M, 2016, Diesel",,4.0,,567.0,8.0,all wheel drive,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,3916.0,98800.0
+Toyota,Corolla,2005,29885,Automatic,2,Petrol,"Toyota Corolla H4 1.8G, 2005, CNG & Hybrids",3.2,2.0,9702.0,,,,,,,,
+Audi,Q7,2015,"64,000 km",AUTOMATIC,first,premium unleaded (required),"Audi Q7 35 TDI S Line, 2015, Diesel",,4.0,,333.0,6.0,all wheel drive,"Crossover,Luxury",Large,4dr SUV,3105.0,61900.0
+Honda,Civic,2012,236484,Automatic,5,Diesel,Honda Civic CNG & Hybrids 085380 Km Driven,1.5,2.0,5970.0,,,,,,,,
+Land Rover,Range Rover Sport,2016,"100,000 km",AUTOMATIC,second,premium unleaded (recommended),"Land Rover Range Sport 3.0 TDV6 HSE Diesel, 2016, Diesel",,4.0,,510.0,8.0,four wheel drive,"Luxury,High-Performance",Midsize,4dr SUV,258.0,93075.0
+Hyundai,Accent,2014,28 km,AUTOMATIC,first,regular unleaded,Good condition,,4.0,,138.0,4.0,front wheel drive,Hatchback,Compact,4dr Hatchback,1439.0,17395.0
+Audi,A4,2022,84573,Manual,4,Electric,"Audi A4 2.0 Premium Plus 40 TFSI, 2022, Petrol",1.4,3.0,12408.0,,,,,,,,
+BMW,7 Series,2015,"78,000 km",AUTOMATIC,second,premium unleaded (required),BMW 730D New Shape 7 Series In Immaculate Condition,,4.0,,535.0,12.0,rear wheel drive,"Luxury,High-Performance",Large,Sedan,3916.0,141200.0
+Hyundai,Tucson,2018,160349,Manual,3,Petrol,Hyundai Tucson 2018 Diesel Well Maintained,2.8,4.0,9093.0,,,,,,,,
+Ford,Fiesta,2012,66901,Automatic,3,Electric,"Ford Fiesta Petrol Titanium, 2012, Petrol",3.4,3.0,13261.0,,,,,,,,
+Land Rover,Range Rover Evoque,2016,"38,000 km",AUTOMATIC,first,premium unleaded (recommended),"Land Rover Range Evoque HSE, 2016, Diesel",,4.0,,240.0,4.0,all wheel drive,"Crossover,Luxury",Compact,4dr SUV,258.0,50475.0
+Audi,A3,2019,13569,Manual,3,Hybrid,Audi A3 2019 excellent condition,2.9,2.0,13428.0,,,,,,,,
+Ford,Fiesta,2010,98700,Manual,3,Hybrid,Ford Fiesta 2010 Diesel Well Maintained,1.1,5.0,7226.0,,,,,,,,
+BMW,5 Series,2022,112224,Automatic,1,Petrol,"BMW 5 Series 2.0 520D Luxury Line, 2022, Diesel",1.6,2.0,11555.0,,,,,,,,
+BMW,5 Series,2020,109271,Semi-Automatic,4,Hybrid,"BMW 5 Series [2017-2021] 2.0 520D Luxury Line, 2020, Diesel",2.7,3.0,11614.0,,,,,,,,
+Ford,Fiesta,2006,51538,Manual,2,Hybrid,Ford Fiesta 2006 CNG & Hybrids Good Condition,2.7,2.0,8569.0,,,,,,,,
+Chevrolet,Cruze,2017,"64,000 km",AUTOMATIC,second,regular unleaded,"Chevrolet Cruze LTZ AT, 2017, Diesel",,4.0,,153.0,4.0,front wheel drive,Hatchback,Compact,4dr Hatchback,1385.0,21920.0
+BMW,X5,2020,286174,Automatic,5,Electric,"BMW X5, 2020, Diesel",2.2,4.0,10076.0,,,,,,,,
+BMW,3 Series,2015,131766,Automatic,3,Electric,"BMW 3 Series 320d Sedan, 2015, Diesel",2.9,2.0,12364.0,,,,,,,,
+BMW,5 Series,2023,212962,Semi-Automatic,4,Electric,"BMW 5 Series 520 D M Sport, 2023, Diesel",1.8,2.0,10540.0,,,,,,,,
+Volkswagen,Passat,2019,105616,Manual,1,Petrol,Passat B8 2019,1.3,4.0,8987.0,,,,,,,,
+Land Rover,Discovery Sport,2015,"75,000 km",AUTOMATIC,first,premium unleaded (recommended),"Land Rover Discovery Sport SD4 HSE Luxury, 2015, Diesel",,4.0,,240.0,4.0,all wheel drive,"Crossover,Luxury",Midsize,4dr SUV,258.0,37070.0
+Hyundai,Tucson,2019,156595,Automatic,1,Hybrid,"Hyundai Tucson 2.0 GL 2WD Petrol AT, 2019, Petrol",1.5,2.0,10668.0,,,,,,,,
+Honda,CR-V,2019,159120,Automatic,1,Petrol,"Honda CR-V 2.0 2WD AT, 2019, Petrol",1.1,4.0,9217.0,,,,,,,,
+BMW,3 Series,2018,99243,Semi-Automatic,3,Electric,"Special Limited Edition in Med Blue Colour with Service Package,New Ty",2.3,3.0,11815.0,,,,,,,,
+Honda,Accord,2007,197700,Automatic,4,Electric,Honda Accord 2007 CNG & Hybrids,1.7,2.0,7446.0,,,,,,,,
+Honda,Accord,2008,73222,Semi-Automatic,2,Petrol,honda accord 2.4 i-vtec KL reg,3.5,4.0,8535.0,,,,,,,,
+Toyota,Corolla,2010,132454,Automatic,4,Diesel,Toyota Corolla 2010 Petrol Good Condition,3.2,4.0,9150.0,,,,,,,,
+BMW,3 Series,2022,98303,Semi-Automatic,5,Petrol,"BMW 3 Series 3.0 M340i xDrive 50 Jahre M Edition, 2022, Petrol",3.2,5.0,11933.0,,,,,,,,
+BMW,3 Series,2009,22008,Semi-Automatic,1,Diesel,BMW 3 Series 2009 Diesel 134000 Km Driven,2.6,5.0,8959.0,,,,,,,,
+Honda,Accord,2009,217224,Manual,5,Petrol,Honda Accord 2009 CNG & Hybrids Well Maintained,2.7,4.0,5155.0,,,,,,,,
+Audi,Q5,2015,252824,Semi-Automatic,1,Hybrid,"Audi Q5 3.0 TDI, 2015, Diesel",2.9,3.0,7443.0,,,,,,,,
+Toyota,Camry,2012,97971,Automatic,1,Hybrid,"Toyota Camry 2.5L Automatic, 2012, Petrol",4.1,5.0,12340.0,,,,,,,,
+Volvo,XC60,2017,"80,000 km",AUTOMATIC,second,regular unleaded,"Volvo XC60 D5 Inscription, 2017, Diesel",,4.0,,240.0,4.0,front wheel drive,"Crossover,Luxury",Midsize,4dr SUV,870.0,40950.0
+Audi,Q5,2020,188803,Automatic,1,Diesel,"Audi Q5 30 TDI Premium Plus, 2020, Diesel",2.5,5.0,10323.0,,,,,,,,
+Hyundai,Tucson,2020,130146,Automatic,3,Petrol,Hyundai Tucson 2020 Diesel top end in excellent condition,2.7,2.0,11697.0,,,,,,,,
+Porsche,Macan,2017,"57,000 km",AUTOMATED_MANUAL,second,premium unleaded (required),"Porsche Macan 2L, 2017, Petrol",,4.0,,360.0,6.0,all wheel drive,"Crossover,Luxury,High-Performance",Midsize,4dr SUV,1715.0,67200.0
+Audi,Q5,2013,263411,Semi-Automatic,1,Hybrid,"Audi Q5 2.0 TDI quattro Premium, 2013, Diesel",3.5,4.0,7231.0,,,,,,,,
+Toyota,Camry,2018,61578,Automatic,4,Diesel,"Toyota Camry Hybrid, 2018, Petrol",1.9,4.0,11668.0,,,,,,,,
+Mercedes-Benz,S-Class,2017,"66,000 km",AUTOMATIC,second,premium unleaded (required),"Mercedes-Benz S-Class S 350d, 2017, Diesel",,4.0,,577.0,8.0,all wheel drive,"Factory Tuner,Luxury,High-Performance",Large,Sedan,617.0,144700.0
+Hyundai,Elantra,2022,181600,Manual,3,Electric,"Hyundai Elantra VTVT SX AT, 2022, Petrol",4.2,3.0,13268.0,,,,,,,,
+Volkswagen,Tiguan,2019,213300,Semi-Automatic,1,Petrol,"Volkswagen Tiguan 2.0 TDI Comfortline, 2019, Diesel",4.7,4.0,10234.0,,,,,,,,
+BMW,X5,2015,203048,Manual,1,Electric,"BMW X5 xDrive 30d xLine, 2015, Diesel",1.5,3.0,8039.0,,,,,,,,
+Hyundai,Sonata,2013,222661,Automatic,4,Petrol,Hyundai Sonata 2013 Petrol Good Condition,1.2,3.0,6246.0,,,,,,,,
+Audi,A4,2023,164751,Manual,1,Diesel,"Audi A4 2.0 Technology 40 TFSI, 2023, Petrol",3.2,3.0,10904.0,,,,,,,,
+Volkswagen,Tiguan,2022,6591,Manual,1,Hybrid,"Volkswagen Tiguan 2.0 Elegance TSI DSG, 2022, Petrol",4.2,3.0,15768.0,,,,,,,,
+Audi,Q5,2022,186035,Automatic,3,Diesel,"Audi Q5 Technology 45 TFSI, 2022, Petrol",3.8,4.0,12279.0,,,,,,,,
+BMW,3 Series,2017,142701,Semi-Automatic,3,Electric,"BMW 3 Series 320d Sedan, 2017, Diesel",2.3,5.0,10645.0,,,,,,,,
+BMW,3 Series,2007,138200,Manual,1,Electric,"BMW 3 Series [2005-2011] 2.0 320si Sedan, 2007, Petrol",1.5,3.0,6936.0,,,,,,,,
+Volvo,XC90,2017,"77,643 km",AUTOMATIC,second,premium unleaded (recommended),"Volvo XC90 D5 AWD, 2017, Diesel",,4.0,,250.0,4.0,front wheel drive,"Crossover,Luxury",Large,4dr SUV,870.0,51150.0
+Mercedes-Benz,R-Class,2012,"137,000 km",AUTOMATIC,second,premium unleaded (required),Mercedes-Benz R-Class 2012,,4.0,,302.0,6.0,all wheel drive,"Crossover,Luxury",Large,Wagon,617.0,52690.0
+Volkswagen,Tiguan,2023,193427,Automatic,1,Diesel,"Volkswagen Tiguan 2.0 Elegance TSI DSG, 2023, Petrol",4.6,3.0,13231.0,,,,,,,,
+Mercedes-Benz,GL-Class,2016,"252,000 km",AUTOMATIC,first,premium unleaded (required),"Mercedes-Benz GL-Class 350 CDI, 2016, Diesel",,4.0,,429.0,8.0,all wheel drive,"Crossover,Luxury,Performance",Large,4dr SUV,617.0,89950.0
+Porsche,Cayman,2015,"16,000 km",MANUAL,second,premium unleaded (required),"Porsche Cayman S, 2015, Petrol",,2.0,,325.0,6.0,rear wheel drive,"Luxury,High-Performance",Compact,Coupe,1715.0,63800.0
+BMW,X1,2015,"78,000 km",AUTOMATIC,second,premium unleaded (required),"BMW X1 2.0 sDrive20i xLine, 2015, Diesel",,4.0,,240.0,4.0,rear wheel drive,"Crossover,Luxury,Performance",Midsize,4dr SUV,3916.0,31200.0
+Volkswagen,Passat,2018,44918,Manual,3,Electric,Volkswagen Passat Highline 2018 Diesel Well Maintained,3.5,4.0,14101.0,,,,,,,,
+Honda,Accord,2003,236022,Semi-Automatic,2,Electric,"Honda Accord 2.4 AT, 2003, Petrol",3.8,3.0,6079.0,,,,,,,,
+Ford,Fiesta,2013,167809,Semi-Automatic,3,Hybrid,"Ford Fiesta 2011-2013 Diesel Trend, 2013, Diesel",3.5,2.0,9143.0,,,,,,,,
+BMW,5 Series,2009,17260,Manual,5,Electric,"BMW 5 Series 2.0 520D, 2009, Diesel",3.0,5.0,11454.0,,,,,,,,
+Honda,CR-V,2016,7588,Automatic,5,Petrol,"Honda CR-V 2.4 Automatic, 2016, Petrol",4.4,4.0,14648.0,,,,,,,,
+Toyota,Camry,2021,216534,Semi-Automatic,1,Petrol,"Toyota Camry Hybrid, 2021, Petrol",3.1,4.0,9169.0,,,,,,,,
+Honda,Accord,2006,53559,Manual,1,Petrol,Honda Accord 2006 Petrol Well Maintained,4.1,2.0,8928.0,,,,,,,,
+BMW,X6,2016,"25,000 km",AUTOMATIC,second,premium unleaded (required),"BMW X6 3.0 XDRIVE 40D M Sport, 2016, Diesel",,4.0,,300.0,6.0,all wheel drive,"Crossover,Luxury",Midsize,4dr SUV,3916.0,62900.0
+Audi,A3,2017,156940,Manual,2,Diesel,,1.7,4.0,7761.0,220.0,4.0,all wheel drive,Luxury,Compact,Sedan,3105.0,43150.0
+Honda,Accord,2015,153086,Manual,4,Diesel,,2.5,4.0,8038.0,278.0,6.0,front wheel drive,Performance,Midsize,Coupe,2202.0,30775.0
+Honda,Accord,2016,181002,Manual,2,Hybrid,,3.1,5.0,9379.0,278.0,6.0,front wheel drive,,Midsize,Sedan,2202.0,32745.0
+Honda,Accord,2017,130322,Semi-Automatic,2,Petrol,,4.0,2.0,10593.0,189.0,4.0,front wheel drive,,Midsize,Sedan,2202.0,26215.0
+Honda,Civic,2015,66777,Semi-Automatic,1,Electric,,2.6,5.0,11864.0,143.0,4.0,front wheel drive,,Compact,Sedan,2202.0,24340.0
+Honda,Civic,2016,175833,Automatic,5,Diesel,,4.0,3.0,10883.0,174.0,4.0,front wheel drive,,Compact,Coupe,2202.0,26125.0
+Honda,Civic,2017,214703,Manual,2,Electric,,3.6,4.0,10505.0,174.0,4.0,front wheel drive,Hatchback,Compact,4dr Hatchback,2202.0,19700.0
+Toyota,Corolla,2015,292193,Manual,2,Electric,,4.9,5.0,9656.0,140.0,4.0,front wheel drive,,Compact,Sedan,2031.0,18965.0
+Toyota,Corolla,2016,203314,Semi-Automatic,3,Hybrid,,2.8,3.0,8633.0,140.0,4.0,front wheel drive,,Compact,Sedan,2031.0,19135.0
+Toyota,Corolla,2017,46400,Semi-Automatic,3,Electric,,1.6,3.0,11872.0,132.0,4.0,front wheel drive,,Compact,Sedan,2031.0,22680.0
+Honda,CR-V,2014,287926,Manual,2,Petrol,,4.0,5.0,6541.0,185.0,4.0,all wheel drive,Crossover,Compact,4dr SUV,2202.0,26470.0
+Chevrolet,Equinox,2015,117006,Semi-Automatic,5,Hybrid,,1.3,3.0,8559.0,182.0,4.0,all wheel drive,"Crossover,Flex Fuel",Compact,4dr SUV,1385.0,26270.0
+Chevrolet,Equinox,2016,73775,Semi-Automatic,4,Petrol,,2.3,3.0,9724.0,182.0,4.0,front wheel drive,Crossover,Compact,4dr SUV,1385.0,22600.0
+Chevrolet,Equinox,2017,189399,Manual,4,Electric,,3.1,5.0,10512.0,182.0,4.0,front wheel drive,Crossover,Compact,4dr SUV,1385.0,25510.0
+Ford,Explorer,2015,147409,Manual,1,Electric,,4.3,3.0,11951.0,290.0,6.0,front wheel drive,"Crossover,Flex Fuel,Performance",Midsize,4dr SUV,5657.0,33000.0
+Ford,Explorer,2016,20770,Automatic,4,Electric,,3.3,4.0,15284.0,290.0,6.0,all wheel drive,"Crossover,Flex Fuel",Midsize,4dr SUV,5657.0,35400.0
+Ford,Explorer,2017,174286,Semi-Automatic,1,Electric,,5.0,4.0,12714.0,365.0,6.0,all wheel drive,"Crossover,Performance",Midsize,4dr SUV,5657.0,53235.0
+Ford,Fiesta,2015,160346,Semi-Automatic,5,Electric,,3.3,2.0,10693.0,120.0,4.0,front wheel drive,,Compact,Sedan,5657.0,18405.0
+Ford,Fiesta,2016,292131,Manual,4,Diesel,,3.6,4.0,6657.0,120.0,4.0,front wheel drive,Hatchback,Compact,4dr Hatchback,5657.0,14880.0
+Ford,Fiesta,2017,277363,Manual,4,Hybrid,,2.2,2.0,6852.0,120.0,4.0,front wheel drive,Hatchback,Compact,4dr Hatchback,5657.0,15660.0
+Ford,Focus,2015,100603,Automatic,2,Electric,,4.8,4.0,14887.0,160.0,4.0,front wheel drive,Flex Fuel,Compact,Sedan,5657.0,18460.0
+Ford,Focus,2016,278559,Semi-Automatic,4,Petrol,,1.4,5.0,4728.0,160.0,4.0,front wheel drive,Flex Fuel,Compact,Sedan,5657.0,18515.0
+Ford,Focus,2017,263823,Semi-Automatic,4,Petrol,,3.6,5.0,7523.0,160.0,4.0,front wheel drive,"Hatchback,Flex Fuel",Compact,4dr Hatchback,5657.0,21675.0
+Volkswagen,Golf,2015,91544,Automatic,1,Electric,,4.7,3.0,14969.0,150.0,4.0,front wheel drive,"Hatchback,Diesel",Compact,4dr Hatchback,873.0,26995.0
+Volkswagen,Golf,2016,240885,Semi-Automatic,2,Petrol,,4.3,3.0,8382.0,170.0,4.0,front wheel drive,Hatchback,Compact,2dr Hatchback,873.0,20675.0
+Volkswagen,Golf,2017,179528,Automatic,5,Petrol,,4.3,2.0,11409.0,170.0,4.0,front wheel drive,Hatchback,Compact,4dr Hatchback,873.0,20995.0
+Chevrolet,Impala,2015,268167,Manual,3,Hybrid,,3.9,3.0,8136.0,195.0,4.0,front wheel drive,,Large,Sedan,1385.0,34465.0
+Chevrolet,Impala,2016,80455,Manual,4,Hybrid,,1.2,4.0,9490.0,,6.0,front wheel drive,"Flex Fuel,Performance",Large,Sedan,1385.0,40810.0
+Chevrolet,Impala,2017,183619,Automatic,1,Petrol,,2.3,5.0,9327.0,305.0,6.0,front wheel drive,"Flex Fuel,Performance",Large,Sedan,1385.0,35645.0
+Chevrolet,Malibu,2015,144743,Automatic,3,Diesel,,2.9,2.0,10105.0,196.0,4.0,front wheel drive,,Midsize,Sedan,1385.0,28195.0
+Chevrolet,Malibu,2016,42849,Semi-Automatic,5,Hybrid,,2.8,3.0,11843.0,160.0,4.0,front wheel drive,,Midsize,Sedan,1385.0,21625.0
+Chevrolet,Malibu,2017,59665,Automatic,1,Electric,,3.5,3.0,15006.0,160.0,4.0,front wheel drive,,Midsize,Sedan,1385.0,25125.0
+Kia,Optima,2014,61057,Semi-Automatic,5,Hybrid,,3.2,4.0,11278.0,199.0,4.0,front wheel drive,Hybrid,Midsize,Sedan,1720.0,25995.0
+Kia,Optima,2015,68256,Manual,2,Electric,,3.4,4.0,12634.0,192.0,4.0,front wheel drive,,Midsize,Sedan,1720.0,25790.0
+Kia,Optima,2016,47895,Manual,4,Hybrid,,3.7,3.0,12642.0,245.0,4.0,front wheel drive,Performance,Midsize,Sedan,1720.0,29940.0
+Volkswagen,Passat,2015,220366,Manual,1,Diesel,,4.7,5.0,8892.0,170.0,4.0,front wheel drive,,Midsize,Sedan,873.0,26280.0
+Volkswagen,Passat,2016,271497,Manual,4,Diesel,,3.5,5.0,6970.0,170.0,4.0,front wheel drive,,Midsize,Sedan,873.0,26280.0
+Volkswagen,Passat,2017,297508,Automatic,4,Hybrid,,3.8,5.0,9549.0,280.0,6.0,front wheel drive,Performance,Midsize,Sedan,873.0,29295.0
+Audi,Q5,2016,121855,Semi-Automatic,5,Electric,,2.5,5.0,10962.0,272.0,6.0,all wheel drive,"Crossover,Luxury",Midsize,4dr SUV,3105.0,53500.0
+Audi,Q5,2017,184285,Semi-Automatic,3,Petrol,,3.4,4.0,8914.0,272.0,6.0,all wheel drive,"Crossover,Luxury",Midsize,4dr SUV,3105.0,53200.0
+Toyota,RAV4,2015,125458,Manual,3,Diesel,,2.0,2.0,8090.0,176.0,4.0,front wheel drive,Crossover,Midsize,4dr SUV,2031.0,25240.0
+Toyota,RAV4,2016,34256,Semi-Automatic,3,Electric,,1.5,4.0,11714.0,176.0,4.0,front wheel drive,Crossover,Midsize,4dr SUV,2031.0,29265.0
+Toyota,RAV4,2017,196995,Automatic,2,Diesel,,3.1,3.0,9860.0,176.0,4.0,front wheel drive,Crossover,Midsize,4dr SUV,2031.0,31830.0
+Kia,Rio,2015,191414,Manual,5,Petrol,,1.1,5.0,5871.0,138.0,4.0,front wheel drive,,Compact,Sedan,1720.0,15190.0
+Kia,Rio,2016,285860,Automatic,5,Electric,,1.6,4.0,8282.0,138.0,4.0,front wheel drive,,Compact,Sedan,1720.0,20755.0
+Kia,Rio,2017,212576,Semi-Automatic,3,Diesel,,1.4,2.0,6348.0,138.0,4.0,front wheel drive,,Compact,Sedan,1720.0,17755.0
+Hyundai,Sonata,2015,138513,Automatic,2,Diesel,,1.6,4.0,8929.0,185.0,4.0,front wheel drive,,Midsize,Sedan,1439.0,23175.0
+Hyundai,Sonata,2016,156430,Semi-Automatic,2,Electric,,2.4,2.0,10171.0,245.0,4.0,front wheel drive,Performance,Midsize,Sedan,1439.0,28925.0
+Hyundai,Sonata,2017,152123,Automatic,5,Hybrid,,1.3,5.0,9957.0,185.0,4.0,front wheel drive,,Midsize,Sedan,1439.0,21600.0
+Kia,Sportage,2015,118075,Manual,3,Diesel,,3.5,2.0,9738.0,182.0,4.0,front wheel drive,Crossover,Compact,4dr SUV,1720.0,21900.0
+Kia,Sportage,2016,134097,Manual,5,Electric,,2.1,4.0,10318.0,182.0,4.0,all wheel drive,Crossover,Compact,4dr SUV,1720.0,23650.0
+Kia,Sportage,2017,242456,Automatic,5,Hybrid,,2.7,2.0,9550.0,181.0,4.0,all wheel drive,Crossover,Compact,4dr SUV,1720.0,27000.0
+Volkswagen,Tiguan,2015,235687,Semi-Automatic,2,Electric,,1.4,2.0,7286.0,200.0,4.0,all wheel drive,Crossover,Compact,4dr SUV,873.0,30225.0
+Volkswagen,Tiguan,2016,282282,Manual,3,Petrol,,2.0,2.0,5254.0,200.0,4.0,front wheel drive,Crossover,Compact,4dr SUV,873.0,24890.0
+Hyundai,Tucson,2015,259533,Manual,4,Electric,,1.6,2.0,7009.0,182.0,4.0,front wheel drive,Crossover,Compact,4dr SUV,1439.0,26450.0
+Hyundai,Tucson,2016,242941,Semi-Automatic,1,Petrol,,3.5,5.0,7541.0,175.0,4.0,front wheel drive,Crossover,Compact,4dr SUV,1439.0,24150.0
